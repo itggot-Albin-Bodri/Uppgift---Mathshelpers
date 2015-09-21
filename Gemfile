@@ -3,5 +3,6 @@ source 'https://rubygems.org'
 ruby '2.2.3'
 
 # TODO: Uppdatera med eventuella gems som behövs
-gem 'rspec'
-
+gem 'minitest'
+gem 'minitest-reporters'
+gem 'mocha'
