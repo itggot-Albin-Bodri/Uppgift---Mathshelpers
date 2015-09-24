@@ -1,4 +1,4 @@
-# Funktioner i Ruby
+# Funktioner i Ruby/Python
 
 Den här uppgiften går ut på att skriva några olika matematiska funktioner
 
